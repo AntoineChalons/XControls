@@ -1,0 +1,109 @@
+<?xml version='1.0'?>
+<XControl LVVersion="8508002">
+   <Property Name="NI.Lib.Description" Type="Str">Multi-Column Listbox with some enhanced features such as content filtering, alternate row colouring and column sorting.
+
+To set properties select More... from the shotcut menu
+To sort the column use the pointed hand tool to click on the column header to sort. Clicking again toggles the order of sorting.
+
+Author: Karissa Purcell</Property>
+   <Property Name="NI.Lib.HelpPath" Type="Str"></Property>
+   <Property Name="NI.Lib.Icon" Type="Bin">#&amp;#!!A!!!!Y!%%!$#GFN97&gt;F)(2Z='5!!""!!QNJ&lt;7&amp;H:3"E:8"U;!!%!!5!%E"!!!(`````!!)&amp;;7VB:W5!%E"!!!(`````!!)%&lt;7&amp;T;Q!!"!!(!"2!1!!"`````Q!&amp;"G.P&lt;'^S=Q!!#E!#"'RF:H1!!!B!!A.U&lt;X!!#E!#"8*J:WBU!!R!!A:C&lt;X2U&lt;WU!!"B!5!!%!!=!#!!*!!I*5G6D&gt;'&amp;O:WRF!$A!]1!!!!!!!!!"$7FN97&gt;F:'&amp;U93ZD&gt;'Q!)E"1!!9!!!!"!!-!"!!'!!M+37VB:W5A:'&amp;U91!!#A"1!!)!$!!-!!%!$1!!!!!!!!!)!!!%!0```````````````````````````````````````````]X.T=X.T=X.T=X.T=X.T=X.T=X.T=X.T=X.T=X.T@``T=X.T=X.T=X.T=X.T=X.T=X.T=X.T=X.T=X.T=X.```.OMX.T&lt;L.T&lt;K[OMW[OLL.OLK[T=X.OLL.T&lt;L.OMX``]W[T=X.OMW[T=X.T=W[T=W[T=W[T&lt;L.T&lt;L.OMW[T@``T&lt;L.T=W[T=W[OMX.T&lt;L.T&lt;K[OMX.OMX.OMX.OMX.```.OMX.T&lt;L.T=X.OMX.OMX.OMX.OMW[T=W[T&lt;L.OMX``]W[OLL.OMW[OLL.T=W[T=W[OLL.T=W[OMX.OMW[T@``T=X.T=X.T=X.T=X.T=X.T=X.T=X.T=X.T=X.T=X.``_[OLK[OLK[OLK[OLK[OLK[OLK[OLK[OLK[OLK[OLL``Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$``Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!0``!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!``]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$```````````````````````````````````````````]!!!#!``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````]!!!%!!0```Q$``]Q!``_:!0``:A$``T-!``]!!0`-`Q$`T-Q!`]S:!0`-:A$`T$-!`]Q!!0_:`Q$`G=Q!`ZG:!0_::A$`G4-!`ZE!!0^G`Q$`:MQ!`W;:!0^G:A$`:D-!`W9!!0]T`Q$`-]Q!`T/:!0]T:A$`-T-!`T-!!0]!`Q$`!-Q!`Q#:!0]!:A$`!$-!`Q!!!-T``Q$-`]Q!T0_:!-T`:A$-`T-!T0]!!-T-`Q$-T-Q!T-S:!-T-:A$-T$-!T-Q!!-S:`Q$-G=Q!T*G:!-S::A$-G4-!T*E!!-RG`Q$-:MQ!T';:!-RG:A$-:D-!T'9!!-QT`Q$--]Q!T$/:!-QT:A$--T-!T$-!!-Q!`Q$-!-Q!T!#:!-Q!:A$-!$-!T!!!!*H``Q#:`]Q!G@_:!*H`:A#:`T-!G@]!!*H-`Q#:T-Q!G=S:!*H-:A#:T$-!G=Q!!*G:`Q#:G=Q!G:G:!*G::A#:G4-!G:E!!*FG`Q#::MQ!G7;:!*FG:A#::D-!G79!!*ET`Q#:-]Q!G4/:!*ET:A#:-T-!G4-!!*E!`Q#:!-Q!G1#:!*E!:A#:!$-!G1!!!'&lt;``Q"G`]Q!:P_:!'&lt;`:A"G`T-!:P]!!'&lt;-`Q"GT-Q!:MS:!'&lt;-:A"GT$-!:MQ!!';:`Q"GG=Q!:JG:!';::A"GG4-!:JE!!':G`Q"G:MQ!:G;:!':G:A"G:D-!:G9!!'9T`Q"G-]Q!:D/:!'9T:A"G-T-!:D-!!'9!`Q"G!-Q!:A#:!'9!:A"G!$-!:A!!!$0``Q!T`]Q!-`_:!$0`:A!T`T-!-`]!!$0-`Q!TT-Q!-]S:!$0-:A!TT$-!-]Q!!$/:`Q!TG=Q!-ZG:!$/::A!TG4-!-ZE!!$.G`Q!T:MQ!-W;:!$.G:A!T:D-!-W9!!$-T`Q!T-]Q!-T/:!$-T:A!T-T-!-T-!!$-!`Q!T!-Q!-Q#:!$-!:A!T!$-!-Q!!!!$``Q!!`]Q!!0_:!!$`:A!!`T-!!0]!!!$-`Q!!T-Q!!-S:!!$-:A!!T$-!!-Q!!!#:`Q!!G=Q!!*G:!!#::A!!G4-!!*E!!!"G`Q!!:MQ!!';:!!"G:A!!:D-!!'9!!!!T`Q!!-]Q!!$/:!!!T:A!!-T-!!$-!!!!!`Q!!!-Q!!!#:!!!!:A!!!$-!\A!!!.U!!!#\!!!!KA!!!)A!!!"X!!!!61!!!%1!!!!C!!!!%1!!!!$O!!!!X1!!!,M!!!#K!!!!C!!!!(=!!!"6!!!!2!!!!#)!!!!2!!!!!/Y!!!$&gt;!!!!OQ!!!+I!!!#)!!!!&gt;Q!!!&amp;5!!!"%!!!!)A!!!"%!\O\O!.X&gt;X1#\O\M!KKKK!)C)C!"X&gt;X=!6666!%2%2!!C)C)!%2%2!!!!!!!!!!!!)!!A!!!!!!!!!!%!!!#!````````````````X9C/;^V^N;P&gt;H9WXX?WVK]5&gt;DGP`````A!!!!9!!!!'!!!!"A!!!!9!!!!'!!!!"A!!!!9!!!!'!!!!"A!!!!9!!!!'!!!!"A!!!!9!!!!'!!!!"A!!!!9!!!!'!!!!"A!!!!9!!!!'!!!!"A!!!!@````]!!!#!``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````]!!!!#!0```Q!!!!!!!!!!!#!!)!!!!!!</Property>
+   <Property Name="NI.Lib.Version" Type="Str">1.2.0.0</Property>
+   <Property Name="NI.XClass.Flags" Type="Int">0</Property>
+   <Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+   <Property Name="NI.XItem.Express" Type="Bool">false</Property>
+   <Property Name="NI.XItem.Name" Type="Str">XControl 1</Property>
+   <Item Name="VIs" Type="Folder">
+      <Item Name="Alternate_Row_Color.vi" Type="VI" URL="VIs/Alternate_Row_Color.vi"/>
+      <Item Name="Apply Filters.vi" Type="VI" URL="VIs/Apply Filters.vi"/>
+      <Item Name="Edit Cell.vi" Type="VI" URL="VIs/Edit Cell.vi"/>
+      <Item Name="Get Cell.vi" Type="VI" URL="VIs/Get Cell.vi"/>
+      <Item Name="More Dialog.vi" Type="VI" URL="VIs/More Dialog.vi"/>
+      <Item Name="Multi Column Listbox.ctl" Type="VI" URL="VIs/Multi Column Listbox.ctl"/>
+      <Item Name="Order Type Def.ctl" Type="VI" URL="VIs/Order Type Def.ctl"/>
+      <Item Name="Order_Items.vi" Type="VI" URL="VIs/Order_Items.vi"/>
+      <Item Name="Recall Column Widths.vi" Type="VI" URL="VIs/Recall Column Widths.vi"/>
+      <Item Name="Remove Col Header Formatting.vi" Type="VI" URL="VIs/Remove Col Header Formatting.vi"/>
+      <Item Name="Save Column Widths.vi" Type="VI" URL="VIs/Save Column Widths.vi"/>
+      <Item Name="Toggle Order.vi" Type="VI" URL="VIs/Toggle Order.vi"/>
+      <Item Name="Value Filters.ctl" Type="VI" URL="VIs/Value Filters.ctl"/>
+      <Item Name="Get max string length.vi" Type="VI" URL="VIs/Get max string length.vi"/>
+   </Item>
+   <Item Name="Properties" Type="Folder">
+      <Item Name="Alternating BG Color" Type="Property Folder">
+         <Property Name="NI.LibItem.Prop.Identifier" Type="Str">Altern_BG_Color</Property>
+         <Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Alternating BG Color</Property>
+         <Item Name="Altern_BG_Color Read.vi" Type="Property VI" URL="Properties/Altern_BG_Color Read.vi"/>
+         <Item Name="Altern_BG_Color Write.vi" Type="Property VI" URL="Properties/Altern_BG_Color Write.vi"/>
+      </Item>
+      <Item Name="Alternating Text Color" Type="Property Folder">
+         <Property Name="NI.LibItem.Prop.Identifier" Type="Str">Altern_Text_Color</Property>
+         <Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Alternating Text Color</Property>
+         <Item Name="Altern_Text_Color Read.vi" Type="Property VI" URL="Properties/Altern_Text_Color Read.vi"/>
+         <Item Name="Altern_Text_Color Write.vi" Type="Property VI" URL="Properties/Altern_Text_Color Write.vi"/>
+      </Item>
+      <Item Name="Column Header Strings[]" Type="Property Folder">
+         <Property Name="NI.LibItem.Prop.Identifier" Type="Str">Column Header Strings[]</Property>
+         <Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Column Header Strings[]</Property>
+         <Item Name="Column Header Strings[] Read.vi" Type="Property VI" URL="Properties/Column Header Strings[] Read.vi"/>
+         <Item Name="Column Header Strings[] Write.vi" Type="Property VI" URL="Properties/Column Header Strings[] Write.vi"/>
+      </Item>
+      <Item Name="Item Names after filtering[]" Type="Property Folder">
+         <Property Name="NI.LibItem.Prop.Identifier" Type="Str">Item Names after filtering</Property>
+         <Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Item Names after filtering[]</Property>
+         <Item Name="Item Names after filtering Read.vi" Type="Property VI" URL="Properties/Item Names after filtering Read.vi"/>
+         <Item Name="Item Names after filtering Write.vi" Type="Property VI" URL="Properties/Item Names after filtering Write.vi"/>
+      </Item>
+      <Item Name="Item Names before filtering[]" Type="Property Folder">
+         <Property Name="NI.LibItem.Prop.Identifier" Type="Str">Item Names before filtering</Property>
+         <Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Item Names before filtering[]</Property>
+         <Item Name="Item Names before filtering Read.vi" Type="Property VI" URL="Properties/Item Names before filtering Read.vi"/>
+         <Item Name="Item Names before filtering Write.vi" Type="Property VI" URL="Properties/Item Names before filtering Write.vi"/>
+      </Item>
+      <Item Name="Order by Col Index" Type="Property Folder">
+         <Property Name="NI.LibItem.Prop.Identifier" Type="Str">Order_by_Col_Index</Property>
+         <Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Order by Col Index</Property>
+         <Item Name="Order_by_Col_Index Read.vi" Type="Property VI" URL="Properties/Order_by_Col_Index Read.vi"/>
+         <Item Name="Order_by_Col_Index Write.vi" Type="Property VI" URL="Properties/Order_by_Col_Index Write.vi"/>
+      </Item>
+      <Item Name="Ordering Type" Type="Property Folder">
+         <Property Name="NI.LibItem.Prop.Identifier" Type="Str">Ordering_Type</Property>
+         <Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Ordering Type</Property>
+         <Item Name="Ordering_Type Read.vi" Type="Property VI" URL="Properties/Ordering_Type Read.vi"/>
+         <Item Name="Ordering_Type Write.vi" Type="Property VI" URL="Properties/Ordering_Type Write.vi"/>
+      </Item>
+      <Item Name="Value Filters[]" Type="Property Folder">
+         <Property Name="NI.LibItem.Prop.Identifier" Type="Str">Value Filters</Property>
+         <Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Value Filters[]</Property>
+         <Item Name="Value Filters Read.vi" Type="Property VI" URL="VIs/Value Filters Read.vi"/>
+         <Item Name="Value Filters Write.vi" Type="Property VI" URL="VIs/Value Filters Write.vi"/>
+      </Item>
+      <Item Name="Column Widths" Type="Property Folder">
+         <Property Name="NI.LibItem.Prop.Identifier" Type="Str">Column Widths</Property>
+         <Property Name="NI.LibItem.Prop.Localized.LongName" Type="Str">Column Widths</Property>
+         <Item Name="Column Widths Read.vi" Type="Property VI" URL="Properties/Column Widths Read.vi"/>
+         <Item Name="Column Widths Write.vi" Type="Property VI" URL="Properties/Column Widths Write.vi"/>
+      </Item>
+   </Item>
+   <Item Name="Methods" Type="Folder">
+      <Item Name="Clear Value Filters.vi" Type="Method VI" URL="Properties/Clear Value Filters.vi"/>
+      <Item Name="Autosize Column Width(s).vi" Type="Method VI" URL="Methods/Autosize Column Width(s).vi"/>
+   </Item>
+   <Item Name="Previous Versions" Type="Folder">
+      <Item Name="ListBox_State_1_1_0_0.ctl" Type="VI" URL="Previous_Versions/ListBox_State_1_1_0_0.ctl"/>
+      <Item Name="Default_V1_1_0_0.vi" Type="VI" URL="Previous_Versions/Default_V1_1_0_0.vi"/>
+   </Item>
+   <Item Name="ListBox_Data.ctl" Type="Ability VI" URL="ListBox_Data.ctl">
+      <Property Name="NI.XItem.Name" Type="Str">Data</Property>
+   </Item>
+   <Item Name="ListBox_State.ctl" Type="Ability VI" URL="ListBox_State.ctl">
+      <Property Name="NI.XItem.Name" Type="Str">State</Property>
+   </Item>
+   <Item Name="ListBox_Facade.vi" Type="Ability VI" URL="ListBox_Facade.vi">
+      <Property Name="NI.XItem.Name" Type="Str">Facade</Property>
+   </Item>
+   <Item Name="Listbox_Init.vi" Type="Ability VI" URL="Listbox_Init.vi">
+      <Property Name="NI.XItem.Name" Type="Str">Init</Property>
+   </Item>
+   <Item Name="Example.vi" Type="VI" URL="Example.vi"/>
+</XControl>
